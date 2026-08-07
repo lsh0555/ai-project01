@@ -37,3 +37,6 @@ Thumbs.db
 data/processed/*
 
 !data/processed/.gitkeep
+
+# Data
+*.csv
