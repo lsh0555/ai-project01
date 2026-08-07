@@ -6,24 +6,27 @@
 
 ## 3. 팀원과 역할
 A. 데이터 점검 및 전처리 : 황정민   
+
 B. 핵심 지표 및 분석 : 조영우   
+
 C. Streamlit 화면 및 시각화 : 정다라   
+
 D. 통합, 테스트 및 문서화 : 임서현   
 
 ## 4. 기술 스택
-• Python
+* Python
 
-• pandas
+* pandas
 
-• Streamlit
+* Streamlit
 
-• Jupyter Notebook
+* Jupyter Notebook
 
-• Visual Studio Code
+* Visual Studio Code
 
-• Git
+* Git
 
-• GitHub
+* GitHub
 
 ## 5. 프로젝트 구조
 
