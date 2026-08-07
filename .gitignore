@@ -1,0 +1,40 @@
+# Python
+
+__pycache__/
+
+*.pyc
+
+# Virtual environment
+
+.venv/
+
+venv/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Environment variables
+
+.env
+
+*.env
+
+!*.env.example
+
+# Editor and OS
+
+.vscode/
+
+.idea/
+
+.DS_Store
+
+Thumbs.db
+
+# Generated files
+
+data/processed/*
+
+!data/processed/.gitkeep
+[출처] AX 1주차 팀 실습 프로젝트 작업지시서|작성자 아토믹데브
